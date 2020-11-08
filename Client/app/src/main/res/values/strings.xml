@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Client</string>
+    <string name="notification_image">Notification image</string>
+    <string name="decibels">Decibels:</string>
+    <string name="time">Time:</string>
+    <string name="play_sound">Start playing</string>
+</resources>
